@@ -220,6 +220,7 @@ nav {
     justify-content: center;
     gap: 0.5rem;
     margin: 3rem 0;
+    flex-wrap: wrap; /* Allows pagination elements to wrap on smaller screens, preventing overflowing */
 }
 
 .page-btn {
