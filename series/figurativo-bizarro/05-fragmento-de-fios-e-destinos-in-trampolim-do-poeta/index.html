@@ -509,6 +509,21 @@ Por que tons e brilhos e gestos. A trançar fios e destinos, ou nada?
         });
     </script>
     
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const form = document.getElementById('searchForm');
+            const input = document.getElementById('searchInput');
+
+            if (form && input) {
+                form.addEventListener('submit', function () {
+                    gtag('event', 'search', {
+                        search_term: input.value
+                    });
+                });
+            }
+        });
+    </script>
 </body>
 
 </html>

@@ -109,7 +109,7 @@
             </div>
             <div class="tech-item">
                 <span>Última Atualização</span>
-                <strong>28/02/2026 22:01</strong>
+                <strong>28/02/2026 22:24</strong>
             </div>
             <div class="tech-item">
                 <span>Versão do Motor</span>
@@ -194,6 +194,21 @@
         });
     </script>
     
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const form = document.getElementById('searchForm');
+            const input = document.getElementById('searchInput');
+
+            if (form && input) {
+                form.addEventListener('submit', function () {
+                    gtag('event', 'search', {
+                        search_term: input.value
+                    });
+                });
+            }
+        });
+    </script>
 </body>
 
 </html>

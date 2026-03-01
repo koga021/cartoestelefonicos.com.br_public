@@ -457,6 +457,21 @@ Para chamadas Internacionais, disque: 0015 + Código do país + código da cidad
         });
     </script>
     
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const form = document.getElementById('searchForm');
+            const input = document.getElementById('searchInput');
+
+            if (form && input) {
+                form.addEventListener('submit', function () {
+                    gtag('event', 'search', {
+                        search_term: input.value
+                    });
+                });
+            }
+        });
+    </script>
 </body>
 
 </html>

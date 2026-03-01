@@ -574,6 +574,21 @@ Velocidade máxima - 212,52 km/h. Período de utilização 1942 a 1963. &#34;Doi
         });
     </script>
     
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const form = document.getElementById('searchForm');
+            const input = document.getElementById('searchInput');
+
+            if (form && input) {
+                form.addEventListener('submit', function () {
+                    gtag('event', 'search', {
+                        search_term: input.value
+                    });
+                });
+            }
+        });
+    </script>
 </body>
 
 </html>
