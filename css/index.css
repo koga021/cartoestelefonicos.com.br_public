@@ -59,6 +59,27 @@ nav {
     letter-spacing: -0.025em;
 }
 
+.nav-links {
+    display: flex;
+    gap: 1.5rem;
+    align-items: center;
+}
+
+.nav-links a {
+    color: var(--text);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: var(--radius);
+    transition: all 0.2s ease;
+}
+
+.nav-links a:hover {
+    color: var(--primary);
+    background: rgba(99, 102, 241, 0.1);
+}
+
 .search-box {
     margin: 2rem 0;
     text-align: center;
@@ -222,7 +243,6 @@ nav {
     margin: 3rem 0;
     flex-wrap: wrap;
 }
-    flex-wrap: wrap; /* Allows pagination elements to wrap on smaller screens, preventing overflowing */
 }
 
 .page-btn {
