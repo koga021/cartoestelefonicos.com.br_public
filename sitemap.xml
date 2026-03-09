@@ -1,8 +1,360 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://cartoestelefonicos.com.br/series/aves-ii/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/aves-ii/D_003.jpg</image:loc>
+      <image:title>Aves II (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/aves-ii/01-arara-militar/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/aves-ii/D_003.jpg</image:loc>
+      <image:title>Arara-militar - Aves II (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/aves-ii/02-aracari-poca/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/aves-ii/D_005.jpg</image:loc>
+      <image:title>Araçari-poca - Aves II (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/aves-ii/03-grou-coroado/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/aves-ii/D_004.jpg</image:loc>
+      <image:title>Grou-coroado - Aves II (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/aves-ii/04-arara-caninde/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/aves-ii/D_007.jpg</image:loc>
+      <image:title>Arara-canindé - Aves II (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/aves-ii/05-papagaio-ecletus/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/aves-ii/D_002.jpg</image:loc>
+      <image:title>Papagaio-ecletus - Aves II (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/aves-ii/06-arara-canga/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/aves-ii/D_008.jpg</image:loc>
+      <image:title>Arara-canga - Aves II (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/aves-ii/07-pomba-goura-vitoria/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/aves-ii/D_001.jpg</image:loc>
+      <image:title>Pomba-goura-vitória - Aves II (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/aves-ii/08-maracana/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/aves-ii/D_009.jpg</image:loc>
+      <image:title>Maracanã - Aves II (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/aves-ii/09-pomba-imperial/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/aves-ii/D_006.jpg</image:loc>
+      <image:title>Pomba-Imperial - Aves II (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/aves-ii/10-perdiz/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/aves-ii/D_010.jpg</image:loc>
+      <image:title>Perdiz - Aves II (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/fernando-de-noronha-fauna/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/fernando-de-noronha-fauna/D_009.jpg</image:loc>
+      <image:title>Fernando de Noronha Fauna (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/fernando-de-noronha-fauna/01-fernando-de-noronha-fauna/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/fernando-de-noronha-fauna/D_009.jpg</image:loc>
+      <image:title>Fernando de Noronha Fauna - Fernando de Noronha Fauna (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/fernando-de-noronha-fauna/02-fernando-de-noronha-fauna/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/fernando-de-noronha-fauna/D_005.jpg</image:loc>
+      <image:title>Fernando de Noronha Fauna - Fernando de Noronha Fauna (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/fernando-de-noronha-fauna/03-fernando-de-noronha-fauna/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/fernando-de-noronha-fauna/D_008.jpg</image:loc>
+      <image:title>Fernando de Noronha Fauna - Fernando de Noronha Fauna (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/fernando-de-noronha-fauna/04-fernando-de-noronha-fauna/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/fernando-de-noronha-fauna/D_006.jpg</image:loc>
+      <image:title>Fernando de Noronha Fauna - Fernando de Noronha Fauna (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/fernando-de-noronha-fauna/05-fernando-de-noronha-fauna/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/fernando-de-noronha-fauna/D_010.jpg</image:loc>
+      <image:title>Fernando de Noronha Fauna - Fernando de Noronha Fauna (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/fernando-de-noronha-fauna/06-fernando-de-noronha-fauna/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/fernando-de-noronha-fauna/D_003.jpg</image:loc>
+      <image:title>Fernando de Noronha Fauna - Fernando de Noronha Fauna (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/fernando-de-noronha-fauna/07-fernando-de-noronha-fauna/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/fernando-de-noronha-fauna/D_001.jpg</image:loc>
+      <image:title>Fernando de Noronha Fauna - Fernando de Noronha Fauna (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/fernando-de-noronha-fauna/08-fernando-de-noronha-fauna/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/fernando-de-noronha-fauna/D_004.jpg</image:loc>
+      <image:title>Fernando de Noronha Fauna - Fernando de Noronha Fauna (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/fernando-de-noronha-fauna/09-fernando-de-noronha-fauna/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/fernando-de-noronha-fauna/D_007.jpg</image:loc>
+      <image:title>Fernando de Noronha Fauna - Fernando de Noronha Fauna (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/fernando-de-noronha-fauna/10-fernando-de-noronha-fauna/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/fernando-de-noronha-fauna/D_002.jpg</image:loc>
+      <image:title>Fernando de Noronha Fauna - Fernando de Noronha Fauna (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/formiga-baiana/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/formiga-baiana/D_026.jpg</image:loc>
+      <image:title>Formiga Baiana (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/formiga-baiana/01-formiga-baiana/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/formiga-baiana/D_026.jpg</image:loc>
+      <image:title>Formiga Baiana - Formiga Baiana (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/formiga-baiana/02-formiga-baiana/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/formiga-baiana/D_021.jpg</image:loc>
+      <image:title>Formiga Baiana - Formiga Baiana (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/formiga-baiana/03-formiga-baiana/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/formiga-baiana/D_027.jpg</image:loc>
+      <image:title>Formiga Baiana - Formiga Baiana (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/formiga-baiana/04-formiga-baiana/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/formiga-baiana/D_022.jpg</image:loc>
+      <image:title>Formiga Baiana - Formiga Baiana (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/formiga-baiana/05-formiga-baiana/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/formiga-baiana/D_028.jpg</image:loc>
+      <image:title>Formiga Baiana - Formiga Baiana (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/formiga-baiana/06-formiga-baiana/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/formiga-baiana/D_024.jpg</image:loc>
+      <image:title>Formiga Baiana - Formiga Baiana (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/formiga-baiana/07-formiga-baiana/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/formiga-baiana/D_029.jpg</image:loc>
+      <image:title>Formiga Baiana - Formiga Baiana (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/formiga-baiana/08-formiga-baiana/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/formiga-baiana/D_023.jpg</image:loc>
+      <image:title>Formiga Baiana - Formiga Baiana (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/formiga-baiana/09-formiga-baiana/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/formiga-baiana/D_030.jpg</image:loc>
+      <image:title>Formiga Baiana - Formiga Baiana (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/formiga-baiana/10-formiga-baiana/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/formiga-baiana/D_025.jpg</image:loc>
+      <image:title>Formiga Baiana - Formiga Baiana (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/lendas-e-magias/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/lendas-e-magias/S_010.jpg</image:loc>
+      <image:title>Lendas e Magias (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/lendas-e-magias/01-sobrevivencia/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/lendas-e-magias/S_010.jpg</image:loc>
+      <image:title>Sobrevivência - Lendas e Magias (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/lendas-e-magias/02-guardiao-das-aguas/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/lendas-e-magias/S_005.jpg</image:loc>
+      <image:title>Guardião das Águas - Lendas e Magias (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/lendas-e-magias/03-rio-antigo/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/lendas-e-magias/S_007.jpg</image:loc>
+      <image:title>Rio antigo - Lendas e Magias (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/lendas-e-magias/04-criancao/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/lendas-e-magias/S_004.jpg</image:loc>
+      <image:title>Crianção - Lendas e Magias (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/lendas-e-magias/05-mater-dolorosa/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/lendas-e-magias/S_006.jpg</image:loc>
+      <image:title>Mater Dolorosa - Lendas e Magias (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/lendas-e-magias/06-zara/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/lendas-e-magias/S_002.jpg</image:loc>
+      <image:title>Zara - Lendas e Magias (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/lendas-e-magias/07-escolha/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/lendas-e-magias/S_008.jpg</image:loc>
+      <image:title>Escolha - Lendas e Magias (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/lendas-e-magias/08-miragens/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/lendas-e-magias/S_003.jpg</image:loc>
+      <image:title>Miragens - Lendas e Magias (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/lendas-e-magias/09-quem-vai-querer/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/lendas-e-magias/S_009.jpg</image:loc>
+      <image:title>Quem vai querer? - Lendas e Magias (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/lendas-e-magias/10-colibri-travesso/</loc>
+    <lastmod>2026-03-09</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/lendas-e-magias/S_001.jpg</image:loc>
+      <image:title>Colibri Travesso - Lendas e Magias (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://cartoestelefonicos.com.br/series/aranda-orquideas/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/aranda-orquideas/B_003.jpg</image:loc>
       <image:title>Aranda Orquídeas (2001)</image:title>
@@ -90,7 +442,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/historias-do-oriente/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/historias-do-oriente/D_004.jpg</image:loc>
       <image:title>Histórias do Oriente (2001)</image:title>
@@ -162,7 +514,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/ilha-do-marajo-habitacoes/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/ilha-do-marajo-habitacoes/A_006.jpg</image:loc>
       <image:title>Ilha do Marajó Habitações (2001)</image:title>
@@ -258,7 +610,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/pascoa-chocolate-e-diversao/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/pascoa-chocolate-e-diversao/D_012.jpg</image:loc>
       <image:title>Páscoa, chocolate e diversão (2001)</image:title>
@@ -362,7 +714,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/renato-rezende/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/renato-rezende/A_004.jpg</image:loc>
       <image:title>Renato Rezende (2001)</image:title>
@@ -402,7 +754,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/costa-do-descobrimento/</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/costa-do-descobrimento/A_007.jpg</image:loc>
       <image:title>Costa do Descobrimento (2001)</image:title>
@@ -490,7 +842,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/fogos-de-artificio/</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/fogos-de-artificio/a_004.jpg</image:loc>
       <image:title>Fogos de Artifício (2001)</image:title>
@@ -546,7 +898,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/foguetes-do-brasil/</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/foguetes-do-brasil/D_004.jpg</image:loc>
       <image:title>Foguetes do Brasil (2001)</image:title>
@@ -586,7 +938,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/carnaval-2001-carnaval-romantico/</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/carnaval-2001-carnaval-romantico/A_002.jpg</image:loc>
       <image:title>Carnaval 2001 - Carnaval Romântico (2001)</image:title>
@@ -626,7 +978,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/artes-e-convencoes/</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/artes-e-convencoes/B_002.jpg</image:loc>
       <image:title>Artes e Convenções (2001)</image:title>
@@ -666,7 +1018,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/formas-e-cores/</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/formas-e-cores/D_001.jpg</image:loc>
       <image:title>Formas e Cores (2001)</image:title>
@@ -706,7 +1058,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/marinha-do-brasil-10-de-novembro-de-2000-178-aniversario-da-esquadra/</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/marinha-do-brasil-10-de-novembro-de-2000-178-aniversario-da-esquadra/Image_004.jpg</image:loc>
       <image:title>Marinha do Brasil - 10 de Novembro de 2000 - 178 Aniversário da Esquadra (2001)</image:title>
@@ -746,7 +1098,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/jardins/</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/jardins/A_002.jpg</image:loc>
       <image:title>Jardins (2001)</image:title>
@@ -786,7 +1138,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/prevencao-de-acidentes-no-mar/</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/prevencao-de-acidentes-no-mar/A_002.jpg</image:loc>
       <image:title>Prevenção de acidentes no Mar (2001)</image:title>
@@ -826,7 +1178,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/luzes-do-oriente/</loc>
-    <lastmod>2026-03-02</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/luzes-do-oriente/A_002.jpg</image:loc>
       <image:title>Luzes do Oriente (2001)</image:title>
@@ -866,7 +1218,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/animais-2001/</loc>
-    <lastmod>2026-03-02</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/animais-2001/A_001.jpg</image:loc>
       <image:title>animais-2001 (2001)</image:title>
@@ -914,7 +1266,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/hospital-do-cancer/</loc>
-    <lastmod>2026-03-02</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/hospital-do-cancer/A_002.jpg</image:loc>
       <image:title>Hospital do Câncer (2001)</image:title>
@@ -946,7 +1298,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/filhotes-espirito-santo/</loc>
-    <lastmod>2026-03-02</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/filhotes-espirito-santo/A_002.jpg</image:loc>
       <image:title>Filhotes - Espírito Santo (2001)</image:title>
@@ -1034,7 +1386,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/corpus-christi-festa-do-corpo-de-cristo/</loc>
-    <lastmod>2026-03-02</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/corpus-christi-festa-do-corpo-de-cristo/A_001.jpg</image:loc>
       <image:title>Corpus Christi - Festa do Corpo de Cristo (2001)</image:title>
@@ -1066,7 +1418,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/por-do-sol/</loc>
-    <lastmod>2026-03-02</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/por-do-sol/A_004.jpg</image:loc>
       <image:title>Por do Sol (2001)</image:title>
@@ -1106,7 +1458,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/transformar-para-crescer/</loc>
-    <lastmod>2026-03-02</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/transformar-para-crescer/A_001.jpg</image:loc>
       <image:title>Transformar para crescer (2001)</image:title>
@@ -1130,7 +1482,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/semana-santa/</loc>
-    <lastmod>2026-03-02</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/semana-santa/A_002.jpg</image:loc>
       <image:title>Semana Santa (2001)</image:title>
@@ -1170,7 +1522,7 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/series/praias-de-alagoas/</loc>
-    <lastmod>2026-03-02</lastmod>
+    <lastmod>2026-03-09</lastmod>
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/praias-de-alagoas/B_004.jpg</image:loc>
       <image:title>Praias de Alagoas (2001)</image:title>
@@ -6506,23 +6858,23 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/index-page-2/</loc>
-    <lastmod>2026-03-04</lastmod>
+    <lastmod>2026-03-09</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/index-page-3/</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-09</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/index-page-4/</loc>
-    <lastmod>2026-02-25</lastmod>
+    <lastmod>2026-02-26</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/index-page-5/</loc>
-    <lastmod>2026-02-13</lastmod>
+    <lastmod>2026-02-12</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/index-page-6/</loc>
@@ -6549,55 +6901,59 @@
     <lastmod>2026-02-18</lastmod>
   </url>
   <url>
+    <loc>https://cartoestelefonicos.com.br/index-page-12/</loc>
+    <lastmod>2026-02-10</lastmod>
+  </url>
+  <url>
     <loc>https://cartoestelefonicos.com.br/colaboradores/douglas-ribas-rj/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/colaboradores/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/temas/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/animais/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/arte/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/dia-das-criancas/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/flores/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/fotos/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/militar/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/praiais/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/quadros/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/busca/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/status/</loc>
-    <lastmod>2026-03-06</lastmod>
+    <lastmod>2026-03-09</lastmod>
   </url>
 </urlset>
