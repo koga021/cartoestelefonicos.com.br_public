@@ -1,6 +1,382 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://cartoestelefonicos.com.br/series/pizzas/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/pizzas/A_002.jpg</image:loc>
+      <image:title>Pizzas (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/pizzas/01-pizzas/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/pizzas/A_002.jpg</image:loc>
+      <image:title>Pizzas - Pizzas (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/pizzas/02-pizzas/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/pizzas/A_001.jpg</image:loc>
+      <image:title>Pizzas - Pizzas (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/pizzas/03-pizzas/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/pizzas/A_003.jpg</image:loc>
+      <image:title>Pizzas - Pizzas (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/pizzas/04-pizzas/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/pizzas/A_004.jpg</image:loc>
+      <image:title>Pizzas - Pizzas (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/halloween/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/halloween/A_006.jpg</image:loc>
+      <image:title>Halloween (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/halloween/01-dia-das-bruxas/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/halloween/A_006.jpg</image:loc>
+      <image:title>Dia das Bruxas - Halloween (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/halloween/02-dia-das-bruxas/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/halloween/A_005.jpg</image:loc>
+      <image:title>Dia das Bruxas - Halloween (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/halloween/03-dia-das-bruxas/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/halloween/A_004.jpg</image:loc>
+      <image:title>Dia das Bruxas - Halloween (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/halloween/04-dia-das-bruxas/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/halloween/A_003.jpg</image:loc>
+      <image:title>Dia das Bruxas - Halloween (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/halloween/05-dia-das-bruxas/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/halloween/A_003.jpg</image:loc>
+      <image:title>Dia das Bruxas - Halloween (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/halloween/06-dia-das-bruxas/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/halloween/A_001.jpg</image:loc>
+      <image:title>Dia das Bruxas - Halloween (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/horoscopo-capricornio/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/horoscopo-capricornio/A_001.jpg</image:loc>
+      <image:title>Horóscopo Capricórnio (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/horoscopo-capricornio/01-capricornio/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/horoscopo-capricornio/A_001.jpg</image:loc>
+      <image:title>Capricórnio - Horóscopo Capricórnio (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/horoscopo-capricornio/02-capricornio/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/horoscopo-capricornio/A_002.jpg</image:loc>
+      <image:title>Capricórnio - Horóscopo Capricórnio (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/teatro/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/teatro/A_005.jpg</image:loc>
+      <image:title>Teatro (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/teatro/01-ator/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/teatro/A_005.jpg</image:loc>
+      <image:title>Ator - Teatro (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/teatro/02-diretor/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/teatro/A_002.jpg</image:loc>
+      <image:title>Diretor - Teatro (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/teatro/03-figurinista/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/teatro/A_004.jpg</image:loc>
+      <image:title>Figurinista - Teatro (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/teatro/04-iluminador/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/teatro/A_001.jpg</image:loc>
+      <image:title>Iluminador - Teatro (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/teatro/05-sonoplasta/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/teatro/A_003.jpg</image:loc>
+      <image:title>Sonoplasta - Teatro (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/teatro/06-cenografista/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/teatro/A_006.jpg</image:loc>
+      <image:title>Cenografista - Teatro (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/nossa-lingua/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/nossa-lingua/A_006.jpg</image:loc>
+      <image:title>Nossa Língua (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/nossa-lingua/01-nossa-lingua/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/nossa-lingua/A_006.jpg</image:loc>
+      <image:title>Nossa Língua - Nossa Língua (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/nossa-lingua/02-nossa-lingua/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/nossa-lingua/A_005.jpg</image:loc>
+      <image:title>Nossa Língua - Nossa Língua (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/nossa-lingua/03-nossa-lingua/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/nossa-lingua/A_004.jpg</image:loc>
+      <image:title>Nossa Língua - Nossa Língua (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/nossa-lingua/04-nossa-lingua/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/nossa-lingua/A_003.jpg</image:loc>
+      <image:title>Nossa Língua - Nossa Língua (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/nossa-lingua/05-nossa-lingua/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/nossa-lingua/A_001.jpg</image:loc>
+      <image:title>Nossa Língua - Nossa Língua (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/nossa-lingua/06-nossa-lingua/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/nossa-lingua/A_002.jpg</image:loc>
+      <image:title>Nossa Língua - Nossa Língua (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/verticais/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/verticais/A_002.jpg</image:loc>
+      <image:title>Verticais (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/verticais/01-verticais/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/verticais/A_002.jpg</image:loc>
+      <image:title>Verticais - Verticais (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/verticais/02-verticais/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/verticais/A_001.jpg</image:loc>
+      <image:title>Verticais - Verticais (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/verticais/03-verticais/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/verticais/A_003.jpg</image:loc>
+      <image:title>Verticais - Verticais (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/verticais/04-verticais/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/verticais/A_004.jpg</image:loc>
+      <image:title>Verticais - Verticais (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/lupo/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/lupo/A_001.jpg</image:loc>
+      <image:title>Lupo (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/lupo/01-lupo/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/lupo/A_001.jpg</image:loc>
+      <image:title>Lupo - Lupo (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/lupo/02-lupo/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/lupo/A_002.jpg</image:loc>
+      <image:title>Lupo - Lupo (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/use-o-15-ii/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/use-o-15-ii/A_004.jpg</image:loc>
+      <image:title>Use o 15 II (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/use-o-15-ii/01-use-o-15/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/use-o-15-ii/A_004.jpg</image:loc>
+      <image:title>Use o 15 - Use o 15 II (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/use-o-15-ii/02-use-o-15/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/use-o-15-ii/A_003.jpg</image:loc>
+      <image:title>Use o 15 - Use o 15 II (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/use-o-15-ii/03-use-o-15/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/use-o-15-ii/A_002.jpg</image:loc>
+      <image:title>Use o 15 - Use o 15 II (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/use-o-15-ii/04-use-o-15/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/use-o-15-ii/A_001.jpg</image:loc>
+      <image:title>Use o 15 - Use o 15 II (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/dia-dos-namorados-2004-brasil-telecom/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/dia-dos-namorados-2004-brasil-telecom/A_003.jpg</image:loc>
+      <image:title>Dia dos Namorados (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/dia-dos-namorados-2004-brasil-telecom/01-dia-dos-namorados/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/dia-dos-namorados-2004-brasil-telecom/A_003.jpg</image:loc>
+      <image:title>Dia dos namorados - Dia dos Namorados (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/dia-dos-namorados-2004-brasil-telecom/02-dia-dos-namorados/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/dia-dos-namorados-2004-brasil-telecom/A_001.jpg</image:loc>
+      <image:title>Dia dos namorados - Dia dos Namorados (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/dia-dos-namorados-2004-brasil-telecom/03-dia-dos-namorados/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/dia-dos-namorados-2004-brasil-telecom/A_004.jpg</image:loc>
+      <image:title>Dia dos namorados - Dia dos Namorados (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/dia-dos-namorados-2004-brasil-telecom/04-dia-dos-namorados/</loc>
+    <lastmod>2026-03-18</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/dia-dos-namorados-2004-brasil-telecom/A_002.jpg</image:loc>
+      <image:title>Dia dos namorados - Dia dos Namorados (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://cartoestelefonicos.com.br/series/aves/</loc>
     <lastmod>2026-03-16</lastmod>
     <image:image>
@@ -7930,110 +8306,66 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/</loc>
-    <lastmod>2026-03-16</lastmod>
-  </url>
-  <url>
-    <loc>https://cartoestelefonicos.com.br/index-page-2/</loc>
-    <lastmod>2026-03-09</lastmod>
-  </url>
-  <url>
-    <loc>https://cartoestelefonicos.com.br/index-page-3/</loc>
-    <lastmod>2026-03-09</lastmod>
-  </url>
-  <url>
-    <loc>https://cartoestelefonicos.com.br/index-page-4/</loc>
-    <lastmod>2026-03-09</lastmod>
-  </url>
-  <url>
-    <loc>https://cartoestelefonicos.com.br/index-page-5/</loc>
-    <lastmod>2026-02-26</lastmod>
-  </url>
-  <url>
-    <loc>https://cartoestelefonicos.com.br/index-page-6/</loc>
-    <lastmod>2026-02-12</lastmod>
-  </url>
-  <url>
-    <loc>https://cartoestelefonicos.com.br/index-page-7/</loc>
-    <lastmod>2026-02-20</lastmod>
-  </url>
-  <url>
-    <loc>https://cartoestelefonicos.com.br/index-page-8/</loc>
-    <lastmod>2026-02-20</lastmod>
-  </url>
-  <url>
-    <loc>https://cartoestelefonicos.com.br/index-page-9/</loc>
-    <lastmod>2026-02-20</lastmod>
-  </url>
-  <url>
-    <loc>https://cartoestelefonicos.com.br/index-page-10/</loc>
-    <lastmod>2026-02-18</lastmod>
-  </url>
-  <url>
-    <loc>https://cartoestelefonicos.com.br/index-page-11/</loc>
-    <lastmod>2026-02-18</lastmod>
-  </url>
-  <url>
-    <loc>https://cartoestelefonicos.com.br/index-page-12/</loc>
-    <lastmod>2026-02-18</lastmod>
-  </url>
-  <url>
-    <loc>https://cartoestelefonicos.com.br/index-page-13/</loc>
-    <lastmod>2026-02-10</lastmod>
+    <lastmod>2026-03-18</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/colaboradores/douglas-ribas-rj/</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-18</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/colaboradores/</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-18</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/temas/</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-18</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/animais/</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-18</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/arte/</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-18</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/dia-das-criancas/</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-18</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/flores/</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-18</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/fotos/</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-18</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/militar/</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-18</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/mosaicos/</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-18</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/praias/</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-18</lastmod>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/tema/propaganda/</loc>
+    <lastmod>2026-03-18</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/quadros/</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-18</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/busca/</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-18</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/status/</loc>
-    <lastmod>2026-03-17</lastmod>
+    <lastmod>2026-03-18</lastmod>
   </url>
 </urlset>
