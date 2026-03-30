@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://cartoestelefonicos.com.br/series/bico-de-pena/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/bico-de-pena/A_002.jpg</image:loc>
+      <image:title>Bico de Pena (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/bico-de-pena/01-igreja-n-s-da-gloria-do-outeiro/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/bico-de-pena/A_002.jpg</image:loc>
+      <image:title>Igreja N. S. da Glória do Outeiro - Bico de Pena (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/bico-de-pena/02-cristo-redentor/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/bico-de-pena/A_001.jpg</image:loc>
+      <image:title>Cristo Redentor - Bico de Pena (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/bico-de-pena/03-arcos-da-lapa/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/bico-de-pena/A_004.jpg</image:loc>
+      <image:title>Arcos da Lapa - Bico de Pena (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/bico-de-pena/04-panorama-da-praia-do-flamengo/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/bico-de-pena/A_005.jpg</image:loc>
+      <image:title>Panorama da Praia do Flamengo - Bico de Pena (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/bico-de-pena/05-palacio-do-catete/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/bico-de-pena/A_006.jpg</image:loc>
+      <image:title>Palácio do Catete - Bico de Pena (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/bico-de-pena/06-teatro-municipal-do-rio-de-janeiro/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/bico-de-pena/A_003.jpg</image:loc>
+      <image:title>Teatro Municipal do Rio de Janeiro - Bico de Pena (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://cartoestelefonicos.com.br/series/vitoria-448-anos-ii/</loc>
     <lastmod>2026-03-30</lastmod>
     <image:image>
@@ -38,6 +94,94 @@
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/vitoria-448-anos-ii/A_004.jpg</image:loc>
       <image:title>Navio saindo da Baía de Vitória tendo ao fundo vista parcial da Terceira Ponte. - Vitória 448 anos II (1999)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/forca-aerea-brasileira-2000/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/forca-aerea-brasileira-2000/A_001.jpg</image:loc>
+      <image:title>Força Aérea Brasileira (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/forca-aerea-brasileira-2000/01-c-130/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/forca-aerea-brasileira-2000/A_001.jpg</image:loc>
+      <image:title>C-130 - Força Aérea Brasileira (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/forca-aerea-brasileira-2000/02-mirage/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/forca-aerea-brasileira-2000/A_006.jpg</image:loc>
+      <image:title>Mirage - Força Aérea Brasileira (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/forca-aerea-brasileira-2000/03-f-5-papo/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/forca-aerea-brasileira-2000/A_002.jpg</image:loc>
+      <image:title>F-5 "Papo" - Força Aérea Brasileira (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/forca-aerea-brasileira-2000/04-f-5-vista-superior/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/forca-aerea-brasileira-2000/A_007.jpg</image:loc>
+      <image:title>F-5  Vista Superior - Força Aérea Brasileira (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/forca-aerea-brasileira-2000/05-bandeirante/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/forca-aerea-brasileira-2000/A_008.jpg</image:loc>
+      <image:title>Bandeirante - Força Aérea Brasileira (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/forca-aerea-brasileira-2000/06-b-17/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/forca-aerea-brasileira-2000/A_003.jpg</image:loc>
+      <image:title>B-17 - Força Aérea Brasileira (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/forca-aerea-brasileira-2000/07-xavante/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/forca-aerea-brasileira-2000/A_009.jpg</image:loc>
+      <image:title>Xavante - Força Aérea Brasileira (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/forca-aerea-brasileira-2000/08-bandeirulha/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/forca-aerea-brasileira-2000/A_004.jpg</image:loc>
+      <image:title>Bandeirulha - Força Aérea Brasileira (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/forca-aerea-brasileira-2000/09-tucano/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/forca-aerea-brasileira-2000/A_010.jpg</image:loc>
+      <image:title>Tucano - Força Aérea Brasileira (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/forca-aerea-brasileira-2000/10-at-27/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/forca-aerea-brasileira-2000/A_005.jpg</image:loc>
+      <image:title>AT-27 - Força Aérea Brasileira (2000)</image:title>
     </image:image>
   </url>
   <url>
@@ -198,6 +342,78 @@
     <image:image>
       <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/dia-da-bandeira/A_001.jpg</image:loc>
       <image:title>Dia da Bandeira - Dia da Bandeira (1999)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/estatuto-da-crianca-e-do-adolescente/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/estatuto-da-crianca-e-do-adolescente/A_006.jpg</image:loc>
+      <image:title>Estatuto da Criança e do Adolescente (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/estatuto-da-crianca-e-do-adolescente/01-sarah-4-anos/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/estatuto-da-crianca-e-do-adolescente/A_006.jpg</image:loc>
+      <image:title>Sarah - 4 anos - Estatuto da Criança e do Adolescente (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/estatuto-da-crianca-e-do-adolescente/02-mariana-fernanda-3-anos/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/estatuto-da-crianca-e-do-adolescente/A_004.jpg</image:loc>
+      <image:title>Mariana Fernanda - 3 anos - Estatuto da Criança e do Adolescente (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/estatuto-da-crianca-e-do-adolescente/03-alexia-1-ano/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/estatuto-da-crianca-e-do-adolescente/A_008.jpg</image:loc>
+      <image:title>Alexia - 1 ano - Estatuto da Criança e do Adolescente (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/estatuto-da-crianca-e-do-adolescente/04-leticya-1-ano/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/estatuto-da-crianca-e-do-adolescente/A_005.jpg</image:loc>
+      <image:title>Letícya - 1 ano - Estatuto da Criança e do Adolescente (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/estatuto-da-crianca-e-do-adolescente/05-larissa-3-anos/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/estatuto-da-crianca-e-do-adolescente/A_007.jpg</image:loc>
+      <image:title>Larissa - 3 anos - Estatuto da Criança e do Adolescente (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/estatuto-da-crianca-e-do-adolescente/06-clara-2-anos/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/estatuto-da-crianca-e-do-adolescente/A_003.jpg</image:loc>
+      <image:title>Clara - 2 anos - Estatuto da Criança e do Adolescente (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/estatuto-da-crianca-e-do-adolescente/07-diego-inacio-3-anos/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/estatuto-da-crianca-e-do-adolescente/A_001.jpg</image:loc>
+      <image:title>Diego Inácio - 3 anos - Estatuto da Criança e do Adolescente (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/estatuto-da-crianca-e-do-adolescente/08-anna-luiza-4-anos/</loc>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/estatuto-da-crianca-e-do-adolescente/A_002.jpg</image:loc>
+      <image:title>Anna Luíza - 4 anos - Estatuto da Criança e do Adolescente (2000)</image:title>
     </image:image>
   </url>
   <url>
