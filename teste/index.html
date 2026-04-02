@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Debug Firestore - Cartões Telefônicos</title>
+    <meta name="description"
+        content="O maior acervo de cartões telefônicos colecionáveis do Brasil. Explore séries completas e cartões históricos.">
+
+    <!-- Canonical and URL -->
+    <link rel="canonical" href="https://cartoestelefonicos.com.br/teste/">
+
+    <!-- OpenGraph / Social Media -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://cartoestelefonicos.com.br/teste/">
+    <meta property="og:title" content="Acervo de Cartões Telefônicos">
+    <meta property="og:description" content="O maior acervo de cartões telefônicos colecionáveis do Brasil. Explore séries completas e cartões históricos.">
+    <meta property="og:image"
+        content="https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/default-share.jpg">
+    <meta property="og:site_name" content="Cartões Telefônicos">
+    <meta property="og:locale" content="pt_BR">
+
+    <!-- Favicons -->
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="apple-touch-icon" href="/favicon-180x180.png">
+
+    <link rel="stylesheet" href="/css/index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+
+    <!-- Google Ads Global Tag -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3058170678556434"
+        crossorigin="anonymous"></script>
+
+    
+<style>
+    /* Estilos da barra de teste */
+    .test-header-bar {
+        background: #fff;
+        border-bottom: 2px solid var(--primary);
+        padding: 0.8rem 0;
+        position: sticky;
+        top: 60px;
+        z-index: 99;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    }
+
+    .test-header-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .btn-google-login {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.6rem 1.2rem;
+        background: #fff;
+        border: 1px solid #cbd5e1;
+        border-radius: 6px;
+        font-weight: 600;
+        cursor: pointer;
+        transition: 0.2s;
+    }
+
+    .btn-google-login:hover {
+        background: #f1f5f9;
+        border-color: var(--secondary);
+    }
+
+    .btn-collection {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.8rem;
+        width: 100%;
+        padding: 1.25rem;
+        margin-top: 1.5rem;
+        border: 2px solid var(--primary);
+        border-radius: 8px;
+        font-weight: 700;
+        cursor: pointer;
+        background: #fff;
+        color: var(--primary);
+        box-shadow: var(--shadow);
+    }
+
+    .btn-collection.owned {
+        background: var(--primary);
+        color: #fff;
+    }
+
+    .btn-collection:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+        border-color: #94a3b8;
+        color: #94a3b8;
+        background: #f8fafc;
+        box-shadow: none;
+    }
+
+    #debugConsole {
+        background: #1e293b;
+        color: #34d399;
+        font-family: monospace;
+        padding: 1rem;
+        border-radius: 8px;
+        margin-bottom: 2rem;
+        font-size: 0.8rem;
+        max-height: 200px;
+        overflow-y: auto;
+        border: 1px solid #334155;
+    }
+
+    .debug-error {
+        color: #f87171 !important;
+    }
+</style>
+
+
+    <!-- Schema.org JSON-LD -->
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-02VRB85P3N"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-02VRB85P3N');
+    </script>
+</head>
+
+<body>
+    <header>
+    <div class="container">
+        <nav>
+            <a href="/" class="logo">Cartões Telefônicos</a>
+            <div class="nav-links">
+                <a href="/temas/">Temas</a>
+            </div>
+        </nav>
+    </div>
+</header>
+
+    <main>
+        
+<div class="test-header-bar">
+    <div class="container test-header-container">
+        <span style="font-weight: 800; color: var(--primary);">MODO DEBUG: FIRESTORE</span>
+        <div id="topAuthArea">
+            <button onclick="window.login()" class="btn-google-login"><span>Carregando Auth...</span></button>
+        </div>
+    </div>
+</div>
+
+<div class="container" style="padding-top: 2rem; padding-bottom: 4rem;">
+    <!-- Console de Debug para o Usuário -->
+    <div style="margin-bottom: 0.5rem; font-weight: 700; font-size: 0.9rem; color: var(--text-light);">Console de
+        Eventos:</div>
+    <div id="debugConsole">
+        <div>[System] Inicializando console de debug...</div>
+    </div>
+
+    
+    <div class="serie-detail">
+        <div class="card-viewer">
+            <div class="image-container">
+                <div class="image-box vertical">
+                    <img src="https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/bico-de-pena/A_002.jpg" alt="Card Image">
+                </div>
+            </div>
+
+            <div class="tech-info">
+                <h3 style="margin-bottom: 1.5rem; font-size: 1.5rem;">Igreja N. S. da Glória do Outeiro</h3>
+                <div class="tech-grid" style="margin-bottom: 1.5rem;">
+                    <div class="tech-item"><span>ID Unificado</span><strong
+                            style="font-family: monospace; font-size: 0.85rem;">aaca0cce9a6f44eea3ff4247b0012d1d</strong></div>
+                    <div class="tech-item"><span>Status Firestore</span><strong id="syncStatus">Verificando...</strong>
+                    </div>
+                </div>
+
+                <button id="btn-card" class="btn-collection" disabled onclick="window.toggleCard()">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                        stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+                    </svg>
+                    <span>Login necessário</span>
+                </button>
+            </div>
+        </div>
+    </div>
+    
+</div>
+
+<!-- FIREBASE SDK v10 -->
+<script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js";
+    import { getAuth, GoogleAuthProvider, signInWithPopup, onAuthStateChanged, signOut } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-auth.js";
+    import { getFirestore, initializeFirestore, doc, getDoc, updateDoc, arrayUnion, arrayRemove, setDoc } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js";
+
+    const consoleEl = document.getElementById("debugConsole");
+    function log(msg, isError = false) {
+        const div = document.createElement("div");
+        if (isError) div.className = "debug-error";
+        div.innerText = `[${new Date().toLocaleTimeString()}] ${msg}`;
+        consoleEl.appendChild(div);
+        consoleEl.scrollTop = consoleEl.scrollHeight;
+        console.log(`[FirebaseDebug] ${msg}`);
+    }
+
+    const firebaseConfig = {
+        apiKey: "AIzaSyCyK_st1DPJeYeU_0AmKXzPzir2iEcmevM",
+        authDomain: "cartoestelefonicos.firebaseapp.com",
+        projectId: "cartoestelefonicos",
+    };
+
+    try {
+        const app = initializeApp(firebaseConfig);
+        const auth = getAuth(app);
+
+        // Forçamos Long Polling para contornar problemas de rede/proxy que causam 'client is offline'
+        const db = initializeFirestore(app, {
+            experimentalForceLongPolling: true,
+            useFetchStreams: false,
+            experimentalAutoDetectLongPolling: false
+        });
+
+        log("Firebase e Firestore (Long Polling) inicializados.");
+
+        const btnCard = document.getElementById("btn-card");
+        const topAuthArea = document.getElementById("topAuthArea");
+        const syncStatus = document.getElementById("syncStatus");
+        const cardId = "aaca0cce9a6f44eea3ff4247b0012d1d";
+
+        if (!btnCard) log("AVISO: Botão #btn-card não encontrado no DOM!", true);
+
+        let userCards = new Set();
+
+        onAuthStateChanged(auth, async (user) => {
+            try {
+                if (user) {
+                    log(`Usuário detectado: ${user.displayName}`);
+                    updateTopUI(user);
+
+                    if (btnCard) {
+                        btnCard.disabled = false;
+                        btnCard.querySelector("span").innerText = "Sincronizando...";
+                    }
+
+                    await loadCollection(user.uid);
+                    renderCardState();
+                } else {
+                    log("Nenhum usuário logado.");
+                    topAuthArea.innerHTML = `<button onclick="window.login()" class="btn-google-login"><span>Entrar com Google</span></button>`;
+                    if (btnCard) {
+                        btnCard.disabled = true;
+                        btnCard.querySelector("span").innerText = "Login necessário";
+                    }
+                    syncStatus.innerText = "Desconectado";
+                }
+            } catch (err) {
+                log(`Erro no Auth: ${err.message}`, true);
+            }
+        });
+
+        window.login = async () => {
+            log("Abrindo login...");
+            try {
+                await signInWithPopup(auth, new GoogleAuthProvider());
+            } catch (e) {
+                log(`Erro Login: ${e.message}`, true);
+            }
+        };
+
+        window.logout = () => {
+            log("Saindo...");
+            signOut(auth);
+        };
+
+        async function loadCollection(uid) {
+            log(`Sincronizando coleção...`);
+            try {
+                const ref = doc(db, "users", uid, "card_index", "main");
+                const snap = await getDoc(ref);
+                if (snap.exists()) {
+                    userCards = new Set(snap.data().cards);
+                    log(`Sucesso: ${userCards.size} itens carregados.`);
+                } else {
+                    log("Coleção vazia (novo usuário).");
+                    userCards = new Set();
+                }
+                syncStatus.innerText = "Sincronizado";
+            } catch (e) {
+                log(`Erro ao carregar: ${e.message}`, true);
+                syncStatus.innerText = "Erro (Offline?)";
+            }
+        }
+
+        function renderCardState() {
+            if (!btnCard) return;
+            const isOwned = userCards.has(cardId);
+            btnCard.classList.toggle("owned", isOwned);
+            btnCard.querySelector("span").innerText = isOwned ? "Remover da coleção" : "Tenho esse cartão";
+            btnCard.querySelector("svg").style.fill = isOwned ? "currentColor" : "none";
+        }
+
+        window.toggleCard = async () => {
+            if (!auth.currentUser || !btnCard) return;
+
+            const isRemoving = userCards.has(cardId);
+            log(`${isRemoving ? "Removendo" : "Adicionando"} ${cardId}...`);
+
+            // UI Otimista
+            btnCard.disabled = true;
+            if (isRemoving) userCards.delete(cardId); else userCards.add(cardId);
+            renderCardState();
+
+            try {
+                const ref = doc(db, "users", auth.currentUser.uid, "card_index", "main");
+
+                // Usamos setDoc com merge para garantir que o doc exista sem precisar de getDoc
+                await setDoc(ref, {
+                    cards: isRemoving ? arrayRemove(cardId) : arrayUnion(cardId),
+                    last_update: new Date().toISOString()
+                }, { merge: true });
+
+                log("Sincronizado com sucesso!");
+            } catch (e) {
+                log(`Erro ao salvar: ${e.message}`, true);
+                // Reverte estado local se falhar
+                if (isRemoving) userCards.add(cardId); else userCards.delete(cardId);
+                renderCardState();
+            } finally {
+                btnCard.disabled = false;
+            }
+        };
+
+        function updateTopUI(user) {
+            topAuthArea.innerHTML = `
+            <div class="user-profile-mini">
+                <img src="${user.photoURL}" class="user-avatar-mini" onerror="this.src='https://ui-avatars.com/api/?name=${user.displayName}'">
+                <span>${user.displayName}</span>
+                <button onclick="window.logout()" style="color:#ef4444; border:none; background:none; cursor:pointer; font-weight:700; margin-left:10px;">Sair</button>
+            </div>
+        `;
+        }
+
+    } catch (err) {
+        log(`Erro Inicialização: ${err.message}`, true);
+    }
+</script>
+
+    </main>
+
+    <footer>
+    <div class="container">
+        <p>&copy; 2026 Acervo de Cartões Telefônicos. Todos os direitos reservados.</p>
+        <p>História e Colecionismo em Cartão. |
+            <a href="/colaboradores/" style="color: #94a3b8; text-decoration: none;">Colaboradores</a> |
+            <a href="/danificados/" style="color: #94a3b8; text-decoration: none;">Cartões Danificados</a> |
+            <a href="/status/" style="color: #94a3b8; text-decoration: none;">Status do Acervo</a>
+        </p>
+        <p style="font-size: 0.8rem; color: #64748b; margin-top: 1rem; line-height: 1.4;">
+            As imagens exibidas são registros históricos de cartões telefônicos de uso público.
+            Os direitos autorais das ilustrações pertencem aos respectivos artistas e operadoras mencionados nos
+            próprios cartões.
+        </p>
+    </div>
+</footer>
+
+    <div id="imageModal" class="image-modal">
+        <span class="image-modal-close">&times;</span>
+        <img class="image-modal-content" id="modalImg">
+    </div>
+
+    <script src="/js/search.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const modal = document.getElementById('imageModal');
+            const modalImg = document.getElementById('modalImg');
+            const closeBtn = document.querySelector('.image-modal-close');
+
+            document.addEventListener('click', (e) => {
+                if (e.target.classList.contains('zoomable')) {
+                    modal.classList.add('active');
+                    modalImg.src = e.target.src;
+                    document.body.style.overflow = 'hidden'; // Prevent scroll
+                } else if (modal.classList.contains('active')) {
+                    modal.classList.remove('active');
+                    document.body.style.overflow = '';
+                }
+            });
+
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape' && modal.classList.contains('active')) {
+                    modal.classList.remove('active');
+                    document.body.style.overflow = '';
+                }
+            });
+
+            const shareBtn = document.getElementById('shareButton');
+            if (shareBtn) {
+                shareBtn.addEventListener('click', async () => {
+                    try {
+                        await navigator.clipboard.writeText(window.location.href);
+
+                        // Temporary feedback
+                        const originalHTML = shareBtn.innerHTML;
+                        shareBtn.innerHTML = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"></polyline></svg>';
+                        shareBtn.style.borderColor = '#22c55e';
+                        shareBtn.style.color = '#22c55e';
+
+                        setTimeout(() => {
+                            shareBtn.innerHTML = originalHTML;
+                            shareBtn.style.borderColor = '';
+                            shareBtn.style.color = '';
+                        }, 2000);
+                    } catch (err) {
+                        console.error('Copy failed:', err);
+                    }
+                });
+            }
+        });
+    </script>
+    
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const form = document.getElementById('searchForm');
+            const input = document.getElementById('searchInput');
+
+            if (form && input) {
+                form.addEventListener('submit', function () {
+                    gtag('event', 'search', {
+                        search_term: input.value
+                    });
+                });
+            }
+        });
+    </script>
+</body>
+
+</html>
