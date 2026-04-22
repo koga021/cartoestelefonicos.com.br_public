@@ -1,6 +1,334 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://cartoestelefonicos.com.br/series/signos/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/signos/A_009.jpg</image:loc>
+      <image:title>Signos (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/signos/01-aquario/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/signos/A_009.jpg</image:loc>
+      <image:title>Aquário - Signos (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/signos/02-peixes/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/signos/A_010.jpg</image:loc>
+      <image:title>Peixes - Signos (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/signos/03-aries/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/signos/A_002.jpg</image:loc>
+      <image:title>Áries - Signos (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/signos/04-touro/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/signos/A_005.jpg</image:loc>
+      <image:title>Touro - Signos (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/signos/05-gemeos/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/signos/A_003.jpg</image:loc>
+      <image:title>Gêmeos - Signos (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/signos/06-cancer/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/signos/A_008.jpg</image:loc>
+      <image:title>Câncer - Signos (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/signos/07-leao/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/signos/A_001.jpg</image:loc>
+      <image:title>Leão - Signos (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/signos/08-virgem/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/signos/A_007.jpg</image:loc>
+      <image:title>Virgem - Signos (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/signos/09-libra/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/signos/A_004.jpg</image:loc>
+      <image:title>Libra - Signos (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/signos/10-escorpiao/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/signos/A_012.jpg</image:loc>
+      <image:title>Escorpião - Signos (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/signos/11-sagitario/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/signos/A_006.jpg</image:loc>
+      <image:title>Sagitário - Signos (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/signos/12-capricornio/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/signos/A_011.jpg</image:loc>
+      <image:title>Capricórnio - Signos (2000)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/feliz-ano-novo/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/feliz-ano-novo/A_006.jpg</image:loc>
+      <image:title>Feliz Ano Novo (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/feliz-ano-novo/01-feliz-ano-novo/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/feliz-ano-novo/A_006.jpg</image:loc>
+      <image:title>Feliz Ano Novo - Feliz Ano Novo (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/feliz-ano-novo/02-feliz-ano-novo/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/feliz-ano-novo/A_005.jpg</image:loc>
+      <image:title>Feliz Ano Novo - Feliz Ano Novo (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/feliz-ano-novo/03-feliz-ano-novo/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/feliz-ano-novo/AA_004.jpg</image:loc>
+      <image:title>Feliz Ano Novo - Feliz Ano Novo (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/feliz-ano-novo/04-feliz-ano-novo/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/feliz-ano-novo/AA_003.jpg</image:loc>
+      <image:title>Feliz Ano Novo - Feliz Ano Novo (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/feliz-ano-novo/05-feliz-ano-novo/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/feliz-ano-novo/AA_001.jpg</image:loc>
+      <image:title>Feliz Ano Novo - Feliz Ano Novo (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/feliz-ano-novo/06-feliz-ano-novo/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/feliz-ano-novo/AA_002.jpg</image:loc>
+      <image:title>Feliz Ano Novo - Feliz Ano Novo (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/telefonica-open-air/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/telefonica-open-air/A_002.jpg</image:loc>
+      <image:title>Telefônica Open Air (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/telefonica-open-air/01-telefonica-open-air/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/telefonica-open-air/A_002.jpg</image:loc>
+      <image:title>Telefônica Open Air - Telefônica Open Air (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/telefonica-open-air/02-fixacao/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/telefonica-open-air/A_001.jpg</image:loc>
+      <image:title>Fixação - Telefônica Open Air (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/telefonica-open-air/03-moulin-rouge/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/telefonica-open-air/A_004.jpg</image:loc>
+      <image:title>Moulin Rouge - Telefônica Open Air (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/telefonica-open-air/04-codigos-de-guerra/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/telefonica-open-air/A_003.jpg</image:loc>
+      <image:title>Códigos de Guerra - Telefônica Open Air (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/telefonica-open-air/05-carga-explosiva/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/telefonica-open-air/A_006.jpg</image:loc>
+      <image:title>Carga Explosiva - Telefônica Open Air (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/telefonica-open-air/06-pequenos-grandes-astros/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/telefonica-open-air/A_006.jpg</image:loc>
+      <image:title>Pequenos Grandes Astros - Telefônica Open Air (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/a-vinganca-do-mosqueteiro/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/a-vinganca-do-mosqueteiro/A_001.jpg</image:loc>
+      <image:title>A Vingança do Mosqueteiro (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/a-vinganca-do-mosqueteiro/01-a-vinganca-do-mosqueteiro/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/a-vinganca-do-mosqueteiro/A_001.jpg</image:loc>
+      <image:title>A Vingança do Mosqueteiro - A Vingança do Mosqueteiro (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/a-vinganca-do-mosqueteiro/02-a-vinganca-do-mosqueteiro/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/a-vinganca-do-mosqueteiro/A_002.jpg</image:loc>
+      <image:title>A Vingança do Mosqueteiro - A Vingança do Mosqueteiro (2002)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/hora-do-rush-2/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/hora-do-rush-2/A_002.jpg</image:loc>
+      <image:title>Hora do Rush 2 (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/hora-do-rush-2/01-hora-do-rush-2/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/hora-do-rush-2/A_002.jpg</image:loc>
+      <image:title>Hora do Rush 2 - Hora do Rush 2 (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/hora-do-rush-2/02-hora-do-rush-2/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/hora-do-rush-2/A_003.jpg</image:loc>
+      <image:title>Hora do Rush 2 - Hora do Rush 2 (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/hora-do-rush-2/03-hora-do-rush-2/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/hora-do-rush-2/A_004.jpg</image:loc>
+      <image:title>Hora do Rush 2 - Hora do Rush 2 (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/hora-do-rush-2/04-hora-do-rush-2/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/hora-do-rush-2/A_001.jpg</image:loc>
+      <image:title>Hora do Rush 2 - Hora do Rush 2 (2001)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/amor-a-toda-prova/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/amor-a-toda-prova/A_001.jpg</image:loc>
+      <image:title>Amor a toda prova (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/amor-a-toda-prova/01-amor-a-toda-prova/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/amor-a-toda-prova/A_001.jpg</image:loc>
+      <image:title>Amor a toda prova - Amor a toda prova (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/amor-a-toda-prova/02-amor-a-toda-prova/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/amor-a-toda-prova/A_002.jpg</image:loc>
+      <image:title>Amor a toda prova - Amor a toda prova (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/o-monge-a-prova-de-balas/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/o-monge-a-prova-de-balas/A_001.jpg</image:loc>
+      <image:title>O Monge à prova de balas (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/o-monge-a-prova-de-balas/01-o-monge-a-prova-de-balas/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/o-monge-a-prova-de-balas/A_001.jpg</image:loc>
+      <image:title>O Monge à prova de balas - O Monge à prova de balas (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/o-monge-a-prova-de-balas/02-o-monge-a-prova-de-balas/</loc>
+    <lastmod>2026-04-22</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/o-monge-a-prova-de-balas/A_002.jpg</image:loc>
+      <image:title>O Monge à prova de balas - O Monge à prova de balas (2003)</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://cartoestelefonicos.com.br/series/borboletas-da-bahia/</loc>
     <lastmod>2026-04-17</lastmod>
     <image:image>
@@ -11666,78 +11994,78 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/colaboradores/douglas-ribas-rj/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/colaboradores/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/temas/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/animais/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/arte/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/dia-das-criancas/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/filmes-e-cinema/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/flores/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/fotos/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/militar/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/minis/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/mosaicos/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/olimpiada/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/praias/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/propaganda/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/quadros/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/busca/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/status/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-22</lastmod>
   </url>
 </urlset>
