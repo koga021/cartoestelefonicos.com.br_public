@@ -1,6 +1,118 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://cartoestelefonicos.com.br/series/bratz/</loc>
+    <lastmod>2026-07-02</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/bratz/A_005.jpg</image:loc>
+      <image:title>Bratz (2007)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/bratz/01-bratz-o-filme/</loc>
+    <lastmod>2026-07-02</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/bratz/A_005.jpg</image:loc>
+      <image:title>Bratz O Filme - Bratz (2007)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/bratz/02-bratz-o-filme/</loc>
+    <lastmod>2026-07-02</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/bratz/A_002.jpg</image:loc>
+      <image:title>Bratz O Filme - Bratz (2007)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/bratz/03-bratz-o-filme/</loc>
+    <lastmod>2026-07-02</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/bratz/A_001.jpg</image:loc>
+      <image:title>Bratz O Filme - Bratz (2007)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/bratz/04-bratz-o-filme/</loc>
+    <lastmod>2026-07-02</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/bratz/A_003.jpg</image:loc>
+      <image:title>Bratz O Filme - Bratz (2007)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/bratz/05-bratz-o-filme/</loc>
+    <lastmod>2026-07-02</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/bratz/A_004.jpg</image:loc>
+      <image:title>Bratz O Filme - Bratz (2007)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/uma-noite-no-museu/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/uma-noite-no-museu/A_001.jpg</image:loc>
+      <image:title>Uma Noite no Museu (2007)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/uma-noite-no-museu/01-uma-noite-no-museu/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/uma-noite-no-museu/A_001.jpg</image:loc>
+      <image:title>Uma noite no Museu - Uma Noite no Museu (2007)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/uma-noite-no-museu/02-uma-noite-no-museu/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/uma-noite-no-museu/A_002.jpg</image:loc>
+      <image:title>Uma noite no Museu - Uma Noite no Museu (2007)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/uma-noite-no-museu/03-uma-noite-no-museu/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/uma-noite-no-museu/A_003.jpg</image:loc>
+      <image:title>Uma noite no Museu - Uma Noite no Museu (2007)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/uma-noite-no-museu/04-uma-noite-no-museu/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/uma-noite-no-museu/A_004.jpg</image:loc>
+      <image:title>Uma noite no Museu - Uma Noite no Museu (2007)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/dogao/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/dogao/A_001.jpg</image:loc>
+      <image:title>Dogão (2007)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/dogao/01-dogao-amigo-pra-cachorro/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/dogao/A_001.jpg</image:loc>
+      <image:title>Dogão, amigo pra cachorro. - Dogão (2007)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://cartoestelefonicos.com.br/series/dogao/02-dogao-amigo-pra-cachorro/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <image:image>
+      <image:loc>https://storage.googleapis.com/images.cartoestelefonicos.com.br/images/series/dogao/A_002.jpg</image:loc>
+      <image:title>Dogão, amigo pra cachorro. - Dogão (2007)</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://cartoestelefonicos.com.br/series/o-filho-do-maskara/</loc>
     <lastmod>2026-06-21</lastmod>
     <image:image>
@@ -12850,78 +12962,78 @@
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/colaboradores/douglas-ribas-rj/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/colaboradores/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/temas/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/animais/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/arte/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/dia-das-criancas/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/filmes-e-cinema/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/flores/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/fotos/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/militar/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/minis/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/mosaicos/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/olimpiada/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/praias/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/propaganda/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/tema/quadros/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/busca/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
   <url>
     <loc>https://cartoestelefonicos.com.br/status/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-07-02</lastmod>
   </url>
 </urlset>
